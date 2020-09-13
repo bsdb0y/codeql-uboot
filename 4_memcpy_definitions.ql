@@ -2,4 +2,4 @@ import cpp
 
 from Function f
 where f.getName() = "memcpy"
-select f, "called to memcpy"
+select f, "memcpy"
